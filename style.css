@@ -6,8 +6,10 @@ body{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
-h1{
-    text-align: center;
+
+div.main{
+    background-color: #D0D3D4;
+    padding: 39px 18px;
 }
 
 div.Description{
@@ -18,9 +20,10 @@ div.Description{
     border-radius: 3px;
     color: black;
     display: inline-block;
-    background-color: #cccc;
+    background-color: #F4F5F5;
 }
   
+
 img{
     width: 150px;
     height: 150px;
