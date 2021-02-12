@@ -6,6 +6,15 @@ body{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
+#header-image{
+    all: unset;
+    width: 70%;
+    height: 300px;
+    margin: 5px 10rem 5px 10rem;
+}
+h1{
+    text-align: center;
+}
 
 div.main{
     background-color: #D0D3D4;
